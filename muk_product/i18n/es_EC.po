@@ -1,0 +1,52 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-30 09:44+0000\n"
+"PO-Revision-Date: 2023-11-30 09:44+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+msgid "Configuration"
+msgstr "Configuración"
+
+msgid "Logistics"
+msgstr "Logística"
+
+msgid "Pricelists"
+msgstr "Listas de precio"
+
+msgid "Product Attributes"
+msgstr "Atributos del producto"
+
+msgid "Product Categories"
+msgstr "Categorías de productos"
+
+msgid "Product Packagings"
+msgstr "Empaquetadores de productos"
+
+msgid "Product Tags"
+msgstr "Etiquetas de productos"
+
+msgid "Products"
+msgstr "Productos"
+
+msgid "Sales Pricelists"
+msgstr "Listas de precios de ventas"
+
+msgid "Settings"
+msgstr "Ajustes"
+
+msgid "Units of Measure"
+msgstr "Unidades de medida"
+
+msgid "Variants"
+msgstr "Variantes"
+
+msgid "Vendor Pricelists"
+msgstr "Listas de precios de proveedores"
