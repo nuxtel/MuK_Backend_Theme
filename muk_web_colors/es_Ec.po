@@ -1,0 +1,102 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-11-30 10:07+0000\n"
+"PO-Revision-Date: 2025-04-29 19:07-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_EC\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "Asset"
+msgstr "Activo"
+
+msgid "Assets Utils"
+msgstr "Utils de activos"
+
+msgid "Attachment"
+msgstr "Adjunto"
+
+msgid "Brand"
+msgstr "Marca"
+
+msgid "Brand Dark Color"
+msgstr "Marca de color oscuro"
+
+msgid "Brand Light Color"
+msgstr "Color claro de la marca"
+
+msgid "Branding"
+msgstr "Herrada"
+
+msgid "Config Settings"
+msgstr "Ajustes de configuración"
+
+msgid "Customize the look and feel of the dark mode"
+msgstr "Personaliza la apariencia del modo oscuro"
+
+msgid "Customize the look and feel of the light mode"
+msgstr "Personalizar la apariencia del modo claro"
+
+msgid "Danger"
+msgstr "Danger"
+
+msgid "Danger Dark Color"
+msgstr "Color oscuro de Danger"
+
+msgid "Danger Light Color"
+msgstr "Color claro del Danger"
+
+msgid "Dark Mode Colors"
+msgstr "Colores de modo oscuro"
+
+msgid "Info"
+msgstr "Información"
+
+msgid "Info Dark Color"
+msgstr "Informacion de color oscuro"
+
+msgid "Info Light Color"
+msgstr "Información de color claro"
+
+msgid "Light Mode Colors"
+msgstr "Colores del modo claro"
+
+msgid "Primary"
+msgstr "Primario"
+
+msgid "Primary Dark Color"
+msgstr "Color oscuro primario"
+
+msgid "Primary Light Color"
+msgstr "Color primario claro"
+
+msgid "Reset Dark Colors"
+msgstr "Restablecer colores oscuros"
+
+msgid "Reset Light Colors"
+msgstr "Restablecer colores claros"
+
+msgid "Success"
+msgstr "Correcto"
+
+msgid "Success Dark Color"
+msgstr "Se aplicó correctamente el color oscuro"
+
+msgid "Success Light Color"
+msgstr "Se aplicó correctamente el color claro"
+
+msgid "Warning"
+msgstr "Advertencia"
+
+msgid "Warning Dark Color"
+msgstr "Advertencia de color oscuro"
+
+msgid "Warning Light Color"
+msgstr "Advertencia del color claro"
